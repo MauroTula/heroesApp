@@ -1,0 +1,15 @@
+mat-card {
+  margin-top: 20px;
+  min-height: 860px;
+  display: flex;
+  flex-direction: column;
+}
+
+mat-card-actions {
+  margin: 0 !important;
+  margin-top: auto !important;
+}
+
+button {
+  margin-right: 10px;
+}
